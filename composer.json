@@ -1,5 +1,5 @@
 {
-    "name": "plannr/laravel-fast-refresh-database",
+    "name": "pristavu/laravel-fast-refresh-database",
     "description": "Refresh your database faster than you've ever seen before 🚀",
     "type": "library",
     "license": "MIT",
